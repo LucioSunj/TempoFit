@@ -48,7 +48,7 @@ Stacking historical frames adds visual tokens and computation, while learned tem
 For one memory-enabled layer and attention head, the retrieval operation is:
 
 $$
-W = \operatorname{softmax}\left(\frac{K_t K_{\mathrm{hist}}^\top}{\sqrt{d}} + \mathrm{Mask} + B_{\mathrm{FGTB}}\right),
+W = \mathrm{softmax}\left(\frac{K_t K_{\mathrm{hist}}^\top}{\sqrt{d}} + \mathrm{Mask} + B_{\mathrm{FGTB}}\right),
 \qquad K_{\mathrm{ctx}} = W K_{\mathrm{hist}},\quad V_{\mathrm{ctx}} = W V_{\mathrm{hist}}.
 $$
 
