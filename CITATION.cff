@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use TempoFit or its paper figures, please cite the paper below."
+type: software
+title: "TempoFit"
+url: "https://github.com/LucioSunj/TempoFit"
+authors:
+  - family-names: Sun
+    given-names: Jun
+  - family-names: Yang
+    given-names: Boyu
+  - family-names: Zhang
+    given-names: Jiahao
+  - family-names: Ma
+    given-names: Ning
+  - family-names: Wu
+    given-names: Chencheng
+  - family-names: Zhang
+    given-names: Siqing
+  - family-names: Huang
+    given-names: Yiou
+  - family-names: Wang
+    given-names: Qiufeng
+  - family-names: Liang
+    given-names: Shan
+  - family-names: Chen
+    given-names: Yaran
+preferred-citation:
+  type: article
+  title: "TempoFit: Plug-and-Play Layer-Wise Temporal KV Memory for Long-Horizon Vision-Language-Action Manipulation"
+  authors:
+    - family-names: Sun
+      given-names: Jun
+    - family-names: Yang
+      given-names: Boyu
+    - family-names: Zhang
+      given-names: Jiahao
+    - family-names: Ma
+      given-names: Ning
+    - family-names: Wu
+      given-names: Chencheng
+    - family-names: Zhang
+      given-names: Siqing
+    - family-names: Huang
+      given-names: Yiou
+    - family-names: Wang
+      given-names: Qiufeng
+    - family-names: Liang
+      given-names: Shan
+    - family-names: Chen
+      given-names: Yaran
+  journal: "arXiv"
+  year: 2026
+  date-published: "2026-03-08"
+  doi: "10.48550/arXiv.2603.07647"
+  url: "https://arxiv.org/abs/2603.07647"
